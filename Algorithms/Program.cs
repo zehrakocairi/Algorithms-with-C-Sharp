@@ -11,7 +11,9 @@ Console.WriteLine("Hello, World!");
 var result = WhoLikesIt.Likes(array);
 */
 
-var text = "camel case method";
+/*var text = "camel case method";
 var result = CamelCaseMethod.CamelCase((text));
+*/
 
+var result = Kata.Solution(19);
 Console.WriteLine(result);

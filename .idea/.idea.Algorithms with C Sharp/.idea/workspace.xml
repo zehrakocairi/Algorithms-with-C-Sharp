@@ -8,9 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb2a78a4-f2f7-48a7-87ac-063386ad3292" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithms/Solutions/CamelCaseMethod.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Algorithms with C Sharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Algorithms with C Sharp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Solutions/MultiplesOf3Or5.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716023049040</updated>
-      <workItem from="1716023050301" duration="6819000" />
+      <workItem from="1716023050301" duration="8256000" />
     </task>
     <servers />
   </component>
