@@ -18,5 +18,5 @@ var result = CamelCaseMethod.CamelCase((text));
 // var result = Kata.Solution(19);
 // Console.WriteLine(result);
 
-var result = WeightForWeight.orderWeight("103 123 4444 99 2000");
+var result = WeightForWeight.orderWeight("140 103 123 4444 99 2000");
 Console.WriteLine(result);
